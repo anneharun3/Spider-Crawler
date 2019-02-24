@@ -1,0 +1,1 @@
+It's used to extract all the links present in a web page which are traversed recursively and adding any new links to the queue.(Python (URL parser and Beautiful Soup modules)) 
